@@ -1,21 +1,54 @@
-I have not included Threat & Vulnerability Management topics as I have a separate section for it.
+Important Protocols & Frameworks (focus on the protocols from an infosec perspective) 
+-------------------------------------------------------------------------------------
 
-Web App Security
-
-HTTP - https://developer.mozilla.org/en-US/docs/Web/HTTP
-HTTP 2 - https://developers.google.com/web/fundamentals/performance/http2 (Good to know)
-OWASP Top 10 2017 - https://owasp.org/www-project-top-ten/2017/Top_10
-OWASP Top 10 2013 - https://owasp.org/www-pdf-archive/OWASP_Top_10_-_2013.pdf
-A separate document for OWASP Web Security Testing Guide 
-
-Network Protocols & Attacks
+Note: I have excluded protocols that are still in use but are no longer recommended for security or efficiency reasons. Those protocols will be mentioned in a separate document.
 
 IPv4 Header - https://tools.ietf.org/html/rfc791
 IPv6 Header - https://tools.ietf.org/html/rfc8200
 IPv4 vs IPv6 Security & Threat Comparisons - https://www.sciencedirect.com/science/article/pii/S187704281000902X
+ARP
+Ethernet (802.3)
+TCP
+UDP
+RTP
+802.11
+DNS
+DNSSEC
+DHCP
+S/MIME
+PGP
+802.1X
+Radius
+Tacacs+
+SPF
+DKIM
+DMARC
+OAuth
+SAML
+OpenID
+SMB/CIFS/Netbios
+Samba
+NFS
+SSH & SFTP
+ICMP
+OSPF
+BGP
+LDAP
+Kerberos
+NTLM
+SIP
+NTP
+SMTP
+IMAP
+POP3
+SNMP
+IPSEC
+Netflow (Good to know for Network telemetry)
 
+_______________________________________________________________________________________________________________________________________________________________
 
 Cryptography 101
+----------------
 
 Block Cipher
 Stream Cipher
@@ -33,4 +66,41 @@ X.509 (PKI)
 CAs
 LetsEncrypt
 Self Signed Certs
+
+_______________________________________________________________________________________________________________________________________________________________
+
+Web Application Security
+------------------------
+
+HTTP - https://developer.mozilla.org/en-US/docs/Web/HTTP
+HTTP 2 - https://developers.google.com/web/fundamentals/performance/http2 (Good to know)
+URI/URL/URN - https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn (Good to know)
+OWASP Top 10 2017 - https://owasp.org/www-project-top-ten/2017/Top_10
+OWASP Top 10 2013 - https://owasp.org/www-pdf-archive/OWASP_Top_10_-_2013.pdf
+
+A separate document for OWASP Web Security Testing Guide 
+
+_______________________________________________________________________________________________________________________________________________________________
+
+Infrastructure Security
+-----------------------
+
+
+_______________________________________________________________________________________________________________________________________________________________
+
+SIEM
+----
+
+_______________________________________________________________________________________________________________________________________________________________
+
+Windows Security
+----------------
+
+_______________________________________________________________________________________________________________________________________________________________
+
+Red Hat Security
+----------------
+
+_______________________________________________________________________________________________________________________________________________________________
+
 
