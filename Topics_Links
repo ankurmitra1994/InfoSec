@@ -1,3 +1,5 @@
+I have not included Threat & Vulnerability Management topics as I have a separate section for it.
+
 Web App Security
 
 HTTP - https://developer.mozilla.org/en-US/docs/Web/HTTP
@@ -11,6 +13,7 @@ Network Protocols & Attacks
 IPv4 Header - https://tools.ietf.org/html/rfc791
 IPv6 Header - https://tools.ietf.org/html/rfc8200
 IPv4 vs IPv6 Security & Threat Comparisons - https://www.sciencedirect.com/science/article/pii/S187704281000902X
+
 
 Cryptography 101
 
