@@ -1,17 +1,29 @@
 The purpose of this document is to list the various security functions and the challenges associated to them.
 
 SOC (Blue Team)
-
-Threat & Vulnerability Management (TVM) - Will skip as I have dedicated section for this function.
+---------------
 
 Infrastructure Security (Usually falls under IT)
-
-Penetration Testing
-
-Identity & Access Management
+------------------------------------------------
 
 Data Protection
+---------------
+
+Penetration Testing
+-------------------
+
+
+Identity & Access Management
+----------------------------
 
 Vendor Risk Management
+----------------------
+
+Security Assurance & Compliance
+-------------------------------
+
+Business Continuity Management/Crisis Management
+------------------------------------------------
 
 
+Threat & Vulnerability Management (TVM) - Will skip as I have dedicated section for this function.
