@@ -28,7 +28,7 @@ SAML
 OpenID
 SMB/CIFS/Netbios
 Samba
-NFS
+NFS & Windows NFS
 SSH & SFTP
 ICMP
 OSPF
@@ -69,16 +69,11 @@ Self Signed Certs
 
 _______________________________________________________________________________________________________________________________________________________________
 
-Web Application Security
-------------------------
+Windows Security & Services
+---------------------------
 
-HTTP - https://developer.mozilla.org/en-US/docs/Web/HTTP
-HTTP 2 - https://developers.google.com/web/fundamentals/performance/http2 (Good to know)
-URI/URL/URN - https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn (Good to know)
-OWASP Top 10 2017 - https://owasp.org/www-project-top-ten/2017/Top_10
-OWASP Top 10 2013 - https://owasp.org/www-pdf-archive/OWASP_Top_10_-_2013.pdf
+AppLocker
 
-A separate document for OWASP Web Security Testing Guide 
 
 _______________________________________________________________________________________________________________________________________________________________
 
@@ -94,4 +89,5 @@ Zero Trust Security Framework
 DDOS Protection
 AI/ML Based IDS/IPS (Eg Darktrace Antigena Network)
 Security Baselining 
+
 
