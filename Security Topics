@@ -75,7 +75,25 @@ Windows Security & Services
 AppLocker
 Windows Registry
 Windows Exploit Protection
+Ransomware Protection
+Microsoft Defender Application Guard (Isolated Browsing)
+Reputation-Based Protection
+Core Isolation
+Windows Defender Offline Scan
 
+_______________________________________________________________________________________________________________________________________________________________
+
+Red Hat Security & Services
+---------------------------
+
+SELinux - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/using_selinux/index
+DAC vs MAC
+ExecShield
+Application Whitelisting - fapolicyd
+Red Hat 8 Security Hardening - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/security_hardening/index
+Red Hat 8 Securing Networks - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/securing_networks/index
+Red Hat 8 Managing & Monitoring Updates - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_and_monitoring_security_updates/index
+3rd Party AV - ClamAV...
 
 _______________________________________________________________________________________________________________________________________________________________
 
