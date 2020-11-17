@@ -3,20 +3,54 @@ The purpose of this document is to list the various security functions and the c
 SOC (Blue Team)
 ---------------
 
+Major Components:
+> IDS/IPS
+> EDR/next-gen AV
+> SIEM
+> Email Security
+
 Infrastructure Security (Usually falls under IT)
 ------------------------------------------------
 
-Data Protection
----------------
+Major Components:
+> FWs
+> Proxies
+> VPN
+> Remote Access
+> Load Balancers
+> Security Architecture
+
+Data Protection/Insider Threat
+------------------------------
+
+Major Components:
+> DLP Solution
+> UBA
 
 Application Security
 --------------------
 
+Major Components:
+> Static Source Code Reviews
+> Application Threat Modelling
+> Architecture Reviews
+
 Penetration Testing
 -------------------
 
+Major Components:
+> Web Application Pen Tests
+> Infrastructure Pen Tests
+> WiFi Pen Tests
+
 Identity & Access Management
 ----------------------------
+
+Major Components:
+> Managing AD accounts
+> Managing Local accounts
+> SSO & OAuth Implementations
+
 
 Vendor Risk Management
 ----------------------
