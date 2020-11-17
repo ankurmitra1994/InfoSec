@@ -8,6 +8,8 @@ Major Components:
 > EDR/next-gen AV
 > SIEM
 > Email Security
+> Threat Management/Threat Intelligence
+> Threat Hunting
 
 Infrastructure Security (Usually falls under IT)
 ------------------------------------------------
@@ -62,4 +64,4 @@ Business Continuity Management/Crisis Management
 ------------------------------------------------
 
 
-Threat & Vulnerability Management (TVM) - Will skip as I have a dedicated section for this function.
+Vulnerability Management (VM) - Will skip as I have a dedicated section for this function.
