@@ -72,8 +72,9 @@ ________________________________________________________________________________
 Windows Security & Services
 ---------------------------
 
-AppLocker
-Windows Registry
+AppLocker - https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/applocker-overview
+Windows Registry - https://docs.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
+https://docs.microsoft.com/en-us/windows/win32/sysinfo/about-the-registry
 Windows 10 Security
   Windows Exploit Protection
   Ransomware Protection
@@ -82,8 +83,8 @@ Windows 10 Security
   Core Isolation
   Windows Defender Offline Scan
 Windows Server 2016 Security Guide
-Windows AD
-Group Policy
+Windows AD - https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services
+Group Policy - https://docs.microsoft.com/en-us/troubleshoot/windows-client/group-policy/group-policy-overview
 _______________________________________________________________________________________________________________________________________________________________
 
 Red Hat Security & Services
