@@ -1,50 +1,31 @@
-Important Protocols & Frameworks (focus on the protocols from an infosec perspective) 
--------------------------------------------------------------------------------------
+Network Fundamentals & Security
+-------------------------------
 
-Note: I have excluded protocols that are still in use but are no longer recommended for security or efficiency reasons. Those protocols will be mentioned in a separate document.
-
+Ethernet (802.3)
 IPv4 Header - https://tools.ietf.org/html/rfc791
 IPv6 Header - https://tools.ietf.org/html/rfc8200
 IPv4 vs IPv6 Security & Threat Comparisons - https://www.sciencedirect.com/science/article/pii/S187704281000902X
 ARP
-Ethernet (802.3)
 TCP
 UDP
-RTP
 802.11
 DNS - https://www.cloudflare.com/learning/dns
+NTP
+SMTP
 DNSSEC
 DHCP
-S/MIME
-PGP
 802.1X
 Radius
 Tacacs+
-SPF
-DKIM
-DMARC
-OAuth
-SAML
-OpenID
-SMB/CIFS/Netbios
-Samba
-NFS & Windows NFS
 SSH & SFTP
 ICMP
 OSPF
 BGP
-LDAP
-Kerberos
-NTLM
-SIP
-NTP
-SMTP
-IMAP
-POP3
 SNMP
 IPSEC
 Netflow (Good to know for Network telemetry)
-
+SIP
+RTP
 _______________________________________________________________________________________________________________________________________________________________
 
 Cryptography 101
@@ -72,6 +53,13 @@ ________________________________________________________________________________
 Windows Security & Services
 ---------------------------
 
+LDAP
+Kerberos
+NTLM
+SMB/CIFS
+Netbios
+Windows NFS
+
 AppLocker - https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/applocker/applocker-overview
 Windows Registry - https://docs.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
 https://docs.microsoft.com/en-us/windows/win32/sysinfo/about-the-registry
@@ -85,10 +73,14 @@ Windows 10 Security
 Windows Server 2016 Security Guide
 Windows AD - https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services
 Group Policy - https://docs.microsoft.com/en-us/troubleshoot/windows-client/group-policy/group-policy-overview
+
 _______________________________________________________________________________________________________________________________________________________________
 
 Red Hat Security & Services
 ---------------------------
+
+Samba
+NFS
 
 SELinux - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/using_selinux/index
 DAC vs MAC
@@ -107,7 +99,7 @@ Infrastructure Security
 L4 Firewalls
 ACLs vs Stateful FWs
 L7 Firewalls
-IDS/IPS
+IDS/IPS - Snort Configuration/Rules
 Honeypots
 Zero Trust Security Framework
 DDOS Protection
@@ -116,15 +108,23 @@ Security Baselining
 
 _______________________________________________________________________________________________________________________________________________________________
 
-SOC (Blue Team)
----------------
-
-Snort Configuration/Rules
-VirusTotal
-
-_______________________________________________________________________________________________________________________________________________________________
-
 Identity & Access Management
 ----------------------------
 
+OAuth
+SAML
+OpenID
+Managing AD Accounts
+Integrating AD with Red Hat Servers
+_______________________________________________________________________________________________________________________________________________________________
 
+Email Security
+--------------
+
+IMAP
+POP3
+S/MIME
+PGP
+SPF
+DKIM
+DMARC
