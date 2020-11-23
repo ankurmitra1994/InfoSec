@@ -73,6 +73,8 @@ Windows 10 Security
 Windows Server 2016 Security Guide
 Windows AD - https://docs.microsoft.com/en-us/windows-server/identity/ad-ds/active-directory-domain-services
 Group Policy - https://docs.microsoft.com/en-us/troubleshoot/windows-client/group-policy/group-policy-overview
+Kerberos
+NTLM
 
 _______________________________________________________________________________________________________________________________________________________________
 
