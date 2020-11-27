@@ -87,7 +87,6 @@ SELinux - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
 MAC - https://csrc.nist.gov/glossary/term/mandatory_access_control
 DAC - https://csrc.nist.gov/glossary/term/discretionary_access_control
 ExecShield
-Application Whitelisting - fapolicyd
 Red Hat 8 Security Hardening - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/security_hardening/index 
   > Using system wide cryptographic policies
   > Linux Audit - things to monitor within a SIEM
@@ -96,6 +95,7 @@ Red Hat 8 Security Hardening - https://access.redhat.com/documentation/en-us/red
     > System Calls
     > Commands run by user
     > Recording security events (such as pam_faillock)
+  > Application Whitelisting - fapolicyd
 Red Hat 8 Securing Networks - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/securing_networks/index
 Red Hat 8 Managing & Monitoring Updates - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_and_monitoring_security_updates/index
 3rd Party AV - ClamAV...
