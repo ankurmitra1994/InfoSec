@@ -84,7 +84,8 @@ Samba
 NFS
 
 SELinux - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/using_selinux/index
-DAC vs MAC
+MAC - https://csrc.nist.gov/glossary/term/mandatory_access_control
+DAC - https://csrc.nist.gov/glossary/term/discretionary_access_control
 ExecShield
 Application Whitelisting - fapolicyd
 Red Hat 8 Security Hardening - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/security_hardening/index
