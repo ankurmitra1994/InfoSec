@@ -89,7 +89,7 @@ DAC - https://csrc.nist.gov/glossary/term/discretionary_access_control
 ExecShield
 Red Hat 8 Security Hardening - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/security_hardening/index 
   > Using system wide cryptographic policies
-  > Linux Audit - things to monitor within a SIEM
+  > Linux Audit
     > Monitoring network access
     > File Access
     > System Calls
