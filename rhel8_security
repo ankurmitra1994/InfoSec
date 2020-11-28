@@ -8,14 +8,11 @@ Physical Security is out of scope for this document.
 
 3. RHEL 8 Using SELinux Guide
 
-4. Vulnerability Scans
+4. IAM
 
 5. CIS Benchmarks/Scans
 
-6. EDR/AV Solution
+6. EDR/AV Solution (eg Crowdstrike)
 
-7. IAM
-
-
-
+7. Vulnerability Scans (eg Qualys, Rapid7 InsightVM, Nessus)
 
