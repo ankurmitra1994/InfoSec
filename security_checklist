@@ -1,5 +1,5 @@
-Network Fundamentals & Security
--------------------------------
+Important Protocols/Frameworks
+------------------------------
 
 Ethernet (802.3)
 IPv4 Header - https://tools.ietf.org/html/rfc791
@@ -10,9 +10,9 @@ TCP
 UDP
 802.11
 DNS - https://www.cloudflare.com/learning/dns
+DNSSEC
 NTP
 SMTP
-DNSSEC
 DHCP
 802.1X
 Radius
@@ -26,6 +26,24 @@ IPSEC
 Netflow (Good to know for Network telemetry)
 SIP
 RTP
+
+LDAP
+Kerberos
+NTLM
+SMB/CIFS
+Netbios
+Windows NFS
+
+Samba
+NFS
+
+IMAP
+POP3
+S/MIME
+PGP
+SPF
+DKIM
+DMARC
 _______________________________________________________________________________________________________________________________________________________________
 
 Cryptography 101
@@ -49,16 +67,6 @@ LetsEncrypt
 Self Signed Certs
 
 _______________________________________________________________________________________________________________________________________________________________
-
-Windows Services
-----------------
-
-LDAP
-Kerberos
-NTLM
-SMB/CIFS
-Netbios
-Windows NFS
 
 Windows 10 Security
 -------------------
@@ -88,9 +96,6 @@ ________________________________________________________________________________
 
 RHEL Security & Services
 ------------------------
-
-Samba
-NFS
 
 SELinux - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/using_selinux/index
 MAC - https://csrc.nist.gov/glossary/term/mandatory_access_control
@@ -137,20 +142,3 @@ OpenID
 Managing AD Accounts
 Integrating AD with Red Hat Servers
 _______________________________________________________________________________________________________________________________________________________________
-
-Email Security
---------------
-
-IMAP
-POP3
-S/MIME
-PGP
-SPF
-DKIM
-DMARC
-_______________________________________________________________________________________________________________________________________________________________
-
-Miscellaneous
--------------
-
-Botnet
