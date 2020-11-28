@@ -1,10 +1,21 @@
 Securing a RHEL 8 Server---
 
+Physical Security is out of scope for this document.
 
-1. CIS Benchmark
+1. RHEL 8 Securing Networks Guide
 
-2. RHEL 8 Security Hardening
+2. RHEL 8 Security Hardening Guide
 
-3. RHEL 8 Securing Networks
+3. RHEL 8 Using SELinux Guide
 
-4. RHEL 8 Using SELinux
+4. Vulnerability Scans
+
+5. CIS Benchmarks/Scans
+
+6. EDR/AV Solution
+
+7. IAM
+
+
+
+
