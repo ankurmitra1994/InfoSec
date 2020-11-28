@@ -101,19 +101,19 @@ SELinux - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux
 MAC - https://csrc.nist.gov/glossary/term/mandatory_access_control
 DAC - https://csrc.nist.gov/glossary/term/discretionary_access_control
 ExecShield
-Red Hat 8 Security Hardening - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/security_hardening/index 
-  > Using system wide cryptographic policies
-  > Linux Audit
-    > Monitoring network access
-    > File Access
-    > System Calls
-    > Commands run by user
-    > Recording security events (such as pam_faillock)
-  > Application Whitelisting - fapolicyd
-Red Hat 8 Securing Networks - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/securing_networks/index
-Red Hat 8 Managing & Monitoring Updates - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/html/managing_and_monitoring_security_updates/index
-3rd Party AV - ClamAV...
-Latest CIS Benchmarks for RHEL 8
+
+Securing a RHEL 8 Server---
+
+Physical Security is out of scope for this document.
+1. RHEL 8 Securing Networks Guide
+2. RHEL 8 Security Hardening Guide
+3. RHEL 8 Using SELinux Guide
+4. CIS Benchmarks/Scans
+5. IAM
+6. EDR/AV Solution (eg Crowdstrike)
+7. Vulnerability Scans (eg Qualys, Rapid7 InsightVM, Nessus)
+
+Security Technologies in RHEL - https://www.redhat.com/en/blog/guide-security-technologies-red-hat-enterprise-linux
 
 _______________________________________________________________________________________________________________________________________________________________
 
