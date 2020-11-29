@@ -75,6 +75,7 @@ Physical Security is out of scope for this document.
 2. CIS Benchmark/Scans
 3. EDR/AV Solution (eg Crowdstrike)
 4. Vulnerability Scans (eg Qualys, Rapid7 InsightVM, Nessus) & Patch Management Strategy
+5. Application Control - AppLocker
 
 
 Windows Server Security (2016 & 2019)
@@ -104,7 +105,7 @@ Securing a RHEL 8 Server---
 
 Physical Security is out of scope for this document.
 1. Securing Networks Guide
-2. Security Hardening Guide
+2. Security Hardening Guide (Application Whitelisting using fapolicyd)
 3. Using SELinux Guide
 4. CIS Benchmarks/Scans
 5. Vulnerability Scans (eg Qualys, Rapid7 InsightVM, Nessus) & Patch Management Strategy
