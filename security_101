@@ -140,9 +140,8 @@ ________________________________________________________________________________
 Identity & Access Management
 ----------------------------
 
-OAuth
-SAML
-OpenID
+OAuth & Open ID Connect - https://developer.okta.com/docs/concepts/oauth-openid/
+SAML - https://developer.okta.com/docs/concepts/saml/
 Managing AD Accounts
 Integrating AD with Red Hat Servers
 _______________________________________________________________________________________________________________________________________________________________
