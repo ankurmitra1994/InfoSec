@@ -31,7 +31,7 @@ RTP
 LDAP
 Kerberos
 NTLM
-SMB/CIFS
+SMB/CIFS - https://docs.microsoft.com/en-us/windows/win32/fileio/microsoft-smb-protocol-and-cifs-protocol-overview
 Netbios
 Windows NFS
 
